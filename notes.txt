@@ -1,0 +1,2 @@
+Challenges of Low-Code/No-Code Software Development: A Literature Review 10.1007/978-3-031-16947-2_1 identyfikuje wersjonowanie jako wyzwanie w no-code.
+CP8 zawiera mechanizm wersjonowania

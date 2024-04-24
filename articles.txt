@@ -1,0 +1,6 @@
+https://www.researchgate.net/publication/344842798_Supporting_the_understanding_and_comparison_of_low-code_development_platforms
+https://www.researchgate.net/publication/347478419_Challenges_opportunities_in_low-code_testing
+https://www.researchgate.net/publication/355182082_Low-Code_Is_Often_High-Code_So_We_Must_Design_Low-Code_Platforms_to_Enable_Proper_Software_Engineering
+https://www.researchgate.net/publication/363569062_Challenges_of_Low-CodeNo-Code_Software_Development_A_Literature_Review
+https://ieeexplore.ieee.org/abstract/document/9643620
+https://dl.acm.org/doi/abs/10.1145/3475716.3475782

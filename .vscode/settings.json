@@ -1,0 +1,6 @@
+{
+    "latex-workshop.docker.image.latex": "blang/latex",
+    "latex-workshop.docker.enabled": true,
+    "latex-workshop.latex.autoClean.run": "onSucceeded",
+    "latex-workshop.latex.outDir": "%DIR%/out"
+}
